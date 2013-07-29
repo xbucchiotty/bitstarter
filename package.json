@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "express": "2.5.x",
+    "xml2js" : "0.2.8",
     "restler": "0.2.2"
   },
   "engines": {

@@ -1,4 +1,3 @@
-{ [Error: Cannot find module 'xml2js'] code: 'MODULE_NOT_FOUND' }
 {
     ".about": true,
     ".blank": true,
